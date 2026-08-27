@@ -12,4 +12,4 @@ Maps Java classes to PostgreSQL tables using reflection and annotations.
 - Manages a connection pool internally
 
 ## Built by
-iprt — learning how ORMs work internally by building one.
+iprt learning how ORMs work internally by building one.
